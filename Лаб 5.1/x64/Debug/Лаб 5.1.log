@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\pakas\source\repos\Лаб 5.1\Лаб 5.1\Source.cpp(22,30): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Лаб 5.1.vcxproj -> C:\Users\pakas\source\repos\Лаб 5.1\x64\Debug\Лаб 5.1.exe
