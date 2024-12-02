@@ -24,6 +24,7 @@ int main() {
         }
         cout << bin << num << endl;
         system("pause");
+        cout << "Kashirina"
 
         return 0; 
-    }
+    } 
