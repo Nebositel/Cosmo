@@ -22,7 +22,7 @@ int main() {
             bin += (dec % 2) * pow(10.0, j);
             dec /= 2;
         }
-        cout << bin << num << endl;
+        cout << bin << num << endl; 
         system("pause");
         cout << "Kashirina"
 
